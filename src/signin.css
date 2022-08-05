@@ -1,0 +1,38 @@
+div.signinbox{
+    min-height: 93vh;
+    background-color: #282c34;
+    padding: 6rem;
+}
+.box{
+    width: 25rem;
+    margin-left: 40rem;
+    padding: 2rem;
+    height: 30rem;
+    border-color: rgb(190, 17, 17);
+    border-radius: 20px;
+    background-color: rgb(244, 236, 217);
+}
+
+hr {
+    border: none;
+    border-top: 3px double #333;
+    color: #333;
+    overflow: visible;
+    text-align: center;
+}
+
+label{
+    width: 6rem;
+    font-size: large;
+}
+
+.input{
+    width: 21rem;
+    border-width: 1px;
+    border-color: rgb(61, 58, 58);
+}
+
+.btn{
+    margin-left: 30%;
+    width: 100px;
+}

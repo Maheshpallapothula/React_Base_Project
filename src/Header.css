@@ -1,0 +1,8 @@
+.navbar{
+    background-color: #4d6491;
+}
+
+a.nav-link:hover{
+    background-color: orange;
+    border-radius: 20px;
+}
